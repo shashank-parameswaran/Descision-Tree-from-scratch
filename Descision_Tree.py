@@ -227,9 +227,6 @@ class DecisionTree():
 
 # In[253]:
 
-
-os.chdir("C:\\Data Science Projects\\Kaggle\\titanic")
-
 # import dataset
 dataset = pd.read_csv("train.csv")
 
